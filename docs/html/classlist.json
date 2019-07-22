@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1001,
+        "cover": "image\/res\/cover.jpg",
+        "text": "网络基础"
+    },
+    {
+        "id": 1002,
+        "cover": "image\/res\/cover.jpg",
+        "text": "HTML"
+    },
+    {
+        "id": 1003,
+        "cover": "image\/res\/cover.jpg",
+        "text": "CSS"
+    },
+    {
+        "id": 1004,
+        "cover": "image\/res\/cover.jpg",
+        "text": "JavaScript"
+    },
+    {
+        "id": 1005,
+        "cover": "image\/res\/cover.jpg",
+        "text": "jQuery"
+    }
+]

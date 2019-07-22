@@ -1,0 +1,275 @@
+{
+    "5d0dc583894ff": {
+        "url": "resource-00262015a33751ec516e21ed918903cc16e66d1c",
+        "action": "slide",
+        "id": "5d0dc583894ff",
+        "order": 1
+    },
+    "5d0dc5838a759": {
+        "text": "我们现在开始前端基础课的第一部分，来讲讲超文本标记语言HTML。",
+        "audio_text": "我们现在开始前端基础课的第一部分，来讲讲超文本标记语言HTML。",
+        "ai_voice": "aiaudio-22d3fba25cfddd4a0672a8e4d8eed7f12f7cf1a6.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838a759",
+        "order": 2
+    },
+    "5d0dc5838a773": {
+        "url": "resource-4e1e2aad5e6892d72aed5585f1f0600068d3e949",
+        "action": "slide",
+        "id": "5d0dc5838a773",
+        "order": 3
+    },
+    "5d0dc5838a991": {
+        "text": "开始之前我们先来说一下HTML、CSS和JS的关系。",
+        "audio_text": "开始之前我们先来说一下HTML、CSS和JS的关系。",
+        "ai_voice": "aiaudio-c5233e88bbd29bf46b23ebeaf9e012c2ac6e008f.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838a991",
+        "order": 4
+    },
+    "5d0dc5838a9a7": {
+        "text": "HTML就是我们刚才说的，超文本标记语言。",
+        "audio_text": "HTML就是我们刚才说的，超文本标记语言。",
+        "ai_voice": "aiaudio-85ca783fe5ad5d3379d71580b53ec0485c8d9741.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838a9a7",
+        "order": 5
+    },
+    "5d0dc5838a9bd": {
+        "text": "它用来支撑页面结构，容纳页面内容。",
+        "audio_text": "它用来支撑页面结构，容纳页面内容。",
+        "ai_voice": "aiaudio-e4a9e83a5e94cef4a950bd424308c6fa76d729d5.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838a9bd",
+        "order": 6
+    },
+    "5d0dc5838a9ff": {
+        "text": "如果我们拿一个人来打比方呢，那HTML它就是骨骼。",
+        "audio_text": "如果我们拿一个人来打比方呢，那HTML它就是骨骼。",
+        "ai_voice": "aiaudio-97761acee55a4c49124cb172a876a000caf070d9.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838a9ff",
+        "order": 7
+    },
+    "5d0dc5838aa1a": {
+        "url": "resource-67795167cdf85e04beec1a2f3f49f16f3ddd6f84",
+        "action": "slide",
+        "id": "5d0dc5838aa1a",
+        "order": 8
+    },
+    "5d0dc5838ab6f": {
+        "text": "CSS又叫层级式样式表 ，那它主要用来管理样式。",
+        "audio_text": "CSS又叫层级式样式表 ，那它主要用来管理样式。",
+        "ai_voice": "aiaudio-5080a6cddf19eec05db2476fc8748ff26d991e24.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838ab6f",
+        "order": 9
+    },
+    "5d0dc5838ab81": {
+        "text": "页面的内容好不好看，都归它管。",
+        "audio_text": "页面的内容好不好看，都归它管。",
+        "ai_voice": "aiaudio-2f7f67c6e0e604cc919e5cadb48bec83232c0bd2.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838ab81",
+        "order": 10
+    },
+    "5d0dc5838ab92": {
+        "text": "所以我们说CSS是衣服。",
+        "audio_text": "所以我们说CSS是衣服。",
+        "ai_voice": "aiaudio-9a958a6be7117bb8dc3688a9158d0c7b375519df.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838ab92",
+        "order": 11
+    },
+    "5d0dc5838aba5": {
+        "url": "resource-be69fcf0c9edeae70d3d6a77beab85a2077544d6",
+        "action": "slide",
+        "id": "5d0dc5838aba5",
+        "order": 12
+    },
+    "5d0dc5838af71": {
+        "text": "而JavaScript呢，它可以动态的来调整页面的内容和样式，就是它可以动态修改HTML的结构。",
+        "audio_text": "而JavaScript呢，它可以动态的来调整页面的内容和样式，就是它可以动态修改HTML的结构。",
+        "ai_voice": "aiaudio-d72b71ecead21cb3b1655664afb713f07caf6afd.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838af71",
+        "order": 13
+    },
+    "5d0dc5838af85": {
+        "text": "或者叫DOM的结构以及CSS上面的样式，那我们说JS是肌肉。",
+        "audio_text": "或者叫D O M的结构以及CSS上面的样式，那我们说JS是肌肉。",
+        "ai_voice": "aiaudio-c1aa030d3cb89dfc515b688f71785994d18e8884.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838af85",
+        "order": 14
+    },
+    "5d0dc5838af9c": {
+        "url": "resource-5b2f5ff78f4255f0fe36c3acbe5c26b5fda82c05",
+        "action": "slide",
+        "id": "5d0dc5838af9c",
+        "order": 15
+    },
+    "5d0dc5838b448": {
+        "text": "1993年IETF就是之前做TCP IP协议、发布RFC文档的那个机构发布了第一个HTML草案。",
+        "audio_text": "1993年IETF就是之前做TCP IP协议、发布RFC文档的那个机构发布了第一个HTML草案。",
+        "ai_voice": "aiaudio-8c8026e9d2c9dcc8be1af09eff040bd35382ca8d.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b448",
+        "order": 16
+    },
+    "5d0dc5838b460": {
+        "text": "在1995年11月，HTML2.0就作为RFC1866发布了。",
+        "audio_text": "在1995年11月，HTML2.0就作为RFC1866发布了。",
+        "ai_voice": "aiaudio-4b8b64b5cd116804ba646b3b00b295b817841e84.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b460",
+        "order": 17
+    },
+    "5d0dc5838b477": {
+        "text": "从1996年开始，HTML规范就从IETF那边，改成由W3C，也就是万维网联盟，来进行维护。",
+        "audio_text": "从1996年开始，HTML规范就从IETF那边，改成由W3C，也就是万维网联盟，来进行维护。",
+        "ai_voice": "aiaudio-b786f07da29331fc80ddee9fb674b0ea0f3f569b.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b477",
+        "order": 18
+    },
+    "5d0dc5838b487": {
+        "text": "我们现在看见的所有的HTML规范，其实都是由W3C这边作为推荐标准来发布的。",
+        "audio_text": "我们现在看见的所有的HTML规范，其实都是由W3C这边作为推荐标准来发布的。",
+        "ai_voice": "aiaudio-3e940a757e047f04caacc87447b781b5b35cce77.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b487",
+        "order": 19
+    },
+    "5d0dc5838b497": {
+        "text": "它在1997年1月的时候发布了HTML4.0，在2014年10月的时候呢，发布了HTML5。",
+        "audio_text": "它在1997年1月的时候发布了HTML4.0，在2014年10月的时候呢，发布了HTML5。",
+        "ai_voice": "aiaudio-bec57a6b4c552f623da7d183d2e7860cf8fe5a64.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b497",
+        "order": 20
+    },
+    "5d0dc5838b4a4": {
+        "text": "到现在，绝大部分浏览器都已经支持了相对完整的HTML5的规范。",
+        "audio_text": "到现在，绝大部分浏览器都已经支持了相对完整的HTML5的规范。",
+        "ai_voice": "aiaudio-065c7617484a8611d4f0d9b6d6dab6ce51464146.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b4a4",
+        "order": 21
+    },
+    "5d0dc5838b4b4": {
+        "text": "所以我们的课程将以HTML5作为基本版本来进行讲解。",
+        "audio_text": "所以我们的课程将以HTML5作为基本版本来进行讲解。",
+        "ai_voice": "aiaudio-f50084e1f33895b592a6cc6883390c10ee3c7af6.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b4b4",
+        "order": 22
+    },
+    "5d0dc5838b4c6": {
+        "url": "resource-bcf9d2a3a3a26afbd47038d6e1b648141070a5ce",
+        "action": "slide",
+        "id": "5d0dc5838b4c6",
+        "order": 23
+    },
+    "5d0dc5838b982": {
+        "text": "在开始我们的课程之前，要先给大家推荐一个网站，那就是MDN\n。",
+        "audio_text": "在开始我们的课程之前，要先给大家推荐一个网站，那就是M D N\n。",
+        "ai_voice": "aiaudio-0520413c4315e4067b992b9385ed20bc9fc0eff3.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b982",
+        "order": 24
+    },
+    "5d0dc5838b998": {
+        "text": "这个是Mozilla的Web开发者文档中心。",
+        "audio_text": "这个是Mozilla的Web开发者文档中心。",
+        "ai_voice": "aiaudio-48e0d29b09207d297f5ccb01900484534d558ccf.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b998",
+        "order": 25
+    },
+    "5d0dc5838b9a9": {
+        "text": "在这个文档中心上边，关于Web、包括HTML，CSS，JavaScript的文档都可以找到。",
+        "audio_text": "在这个文档中心上边，关于Web、包括HTML，CSS，JavaScript的文档都可以找到。",
+        "ai_voice": "aiaudio-a1b0b8a0527b7c1d1a37c291fbf3fc1f168b9771.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b9a9",
+        "order": 26
+    },
+    "5d0dc5838b9b8": {
+        "text": "它还准备了很多的开发者工具、教程，所以你在上面可以学到几乎所有关于Web开发的知识。",
+        "audio_text": "它还准备了很多的开发者工具、教程，所以你在上面可以学到几乎所有关于Web开发的知识。",
+        "ai_voice": "aiaudio-73aeddc6c078505eadafda13fd5e232eee529647.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b9b8",
+        "order": 27
+    },
+    "5d0dc5838b9c8": {
+        "text": "在我们的课程中，即使有一些东西没有讲到，你也可以在这里查到。",
+        "audio_text": "在我们的课程中，即使有一些东西没有讲到，你也可以在这里查到。",
+        "ai_voice": "aiaudio-4be05d47008287acf0cf703250657d8ba490a14f.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b9c8",
+        "order": 28
+    },
+    "5d0dc5838b9d8": {
+        "text": "当你在其它地方，比如说在别人网页上突然看见一个自己不会的东西，你也可以到这个页面来查询。",
+        "audio_text": "当你在其它地方，比如说在别人网页上突然看见一个自己不会的东西，你也可以到这个页面来查询。",
+        "ai_voice": "aiaudio-344ebaecf8986bd83463d606547742c8814eaf68.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b9d8",
+        "order": 29
+    },
+    "5d0dc5838b9e8": {
+        "text": "下边我们通过视频来看看怎么充分的利用MDN。",
+        "audio_text": "下边我们通过视频来看看怎么充分的利用M D N。",
+        "ai_voice": "aiaudio-659f0a53d1303e2e2960a6d5812012297629eedd.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838b9e8",
+        "order": 30
+    },
+    "5d0dc5838ba07": {
+        "url": "resource-cf663ec21ed1c87235b62e4f79b376c85b513964",
+        "action": "video",
+        "id": "5d0dc5838ba07",
+        "order": 31
+    },
+    "5d0dc5838ba2e": {
+        "text": "window.parent.window.cg_get_item(\"学习成就2-1\")",
+        "action": "js",
+        "id": "5d0dc5838ba2e",
+        "order": 32
+    },
+    "5d0dc5838baca": {
+        "text": "恭喜你，又完成了一节课程的学习，获得了「学习成就」，可在「物品」中查看。",
+        "audio_text": "恭喜你，又完成了一节课程的学习，获得了「学习成就」，可在「物品」中查看。",
+        "ai_voice": "aiaudio-06f09c8a6b734e8d7e35953e0df7eb53c38894ac.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5d0dc5838baca",
+        "order": 33
+    }
+}

@@ -1,0 +1,488 @@
+{
+    "5cff785bc5968": {
+        "url": "resource-c46e88c8cfb06151fc40e71c21c4f0f9d87eec68",
+        "action": "slide",
+        "id": "5cff785bc5968",
+        "order": 1
+    },
+    "5cff785bc714c": {
+        "text": "学习网络编程肯定离不开网络基础知识，但不幸的是市面上大部分课程都跳过了。",
+        "audio_text": "学习网络编程肯定离不开网络基础知识，但不幸的是市面上大部分课程都跳过了。",
+        "ai_voice": "aiaudio-a9f99a9fd2644b4cf0369117fbbacd043a018ed0.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bc714c",
+        "order": 2
+    },
+    "5cff785bc7174": {
+        "text": "为了帮大家深入原理，打下扎实的基础，我们将网络基础部分的知识做了一个精简，形成了这一章课程。",
+        "audio_text": "为了帮大家深入原理，打下扎实的基础，我们将网络基础部分的知识做了一个精简，形成了这一章课程。",
+        "ai_voice": "aiaudio-5392df8af48713f86d8fa8d4f424a58c18ee5e29.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bc7174",
+        "order": 3
+    },
+    "5cff785bc7188": {
+        "text": "我们会带着大家学习电脑和电脑之间是怎么连接和传输数据的；了解在传数据时面临的问题和挑战，以及是如何解决的。",
+        "audio_text": "我们会带着大家学习电脑和电脑之间是怎么连接和传输数据的；了解在传数据时面临的问题和挑战，以及是如何解决的。",
+        "ai_voice": "aiaudio-db151f6688b371b04f9ef6be1d43cf9d84eae1c3.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bc7188",
+        "order": 4
+    },
+    "5cff785bc71a0": {
+        "url": "resource-fa1c9814f2a95db6cb14b09414baac28f2cff17f",
+        "action": "slide",
+        "id": "5cff785bc71a0",
+        "order": 5
+    },
+    "5cff785bc7923": {
+        "text": "之前我们也看到了，传输一张照片并不是像想象中那么简单。",
+        "audio_text": "之前我们也看到了，传输一张照片并不是像想象中那么简单。",
+        "ai_voice": "aiaudio-872e372c3ca494deb481f48754f30c41bc7be7a1.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bc7923",
+        "order": 6
+    },
+    "5cff785bc7974": {
+        "text": "如果用我们今天的快递系统来打比方，这可不是寄一封信。",
+        "audio_text": "如果用我们今天的快递系统来打比方，这可不是寄一封信。",
+        "ai_voice": "aiaudio-b8236d22eca46daa44b0afa4fdc71ed854513cbb.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bc7974",
+        "order": 7
+    },
+    "5cff785bc80a6": {
+        "text": "它相当于按了一下鼠标，然后把一栋房子给寄了出去。",
+        "audio_text": "它相当于按了一下鼠标，然后把一栋房子给寄了出去。",
+        "ai_voice": "aiaudio-e85f920eee093f568d606cbab054277734f5bfe5.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bc80a6",
+        "order": 8
+    },
+    "5cff785bc8561": {
+        "url": "resource-8fa48258b14cf38c0719e6e5fc097016db987892",
+        "action": "slide",
+        "id": "5cff785bc8561",
+        "order": 9
+    },
+    "5cff785bc879a": {
+        "text": "那么，我们不妨想象一下，如果真的通过快递来寄送一栋房子，比如从重庆寄送到北京，会遇到哪些问题。",
+        "audio_text": "那么，我们不妨想象一下，如果真的通过快递来寄送一栋房子，比如从重庆寄送到北京，会遇到哪些问题。",
+        "ai_voice": "aiaudio-e61e2640956dbafc6eda20c2c9579371dcce5c1d.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bc879a",
+        "order": 10
+    },
+    "5cff785bc8945": {
+        "url": "resource-5eb327c1b2769ca2094fd1ff3f9c4296cb442fb7",
+        "action": "slide",
+        "id": "5cff785bc8945",
+        "order": 11
+    },
+    "5cff785bc9ed2": {
+        "text": "首先我们得知道往哪儿寄。",
+        "audio_text": "首先我们得知道往哪儿寄。",
+        "ai_voice": "aiaudio-89ce111e9ec7c5c386c2365ef17c90aa78c2980f.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bc9ed2",
+        "order": 12
+    },
+    "5cff785bca1b3": {
+        "text": "虽然知道是北京，但到底是在三环还是五环，在中关村、上地还在望京，得知道一个确切的地址。",
+        "audio_text": "虽然知道是北京，但到底是在三环还是五环，在中关村、上地还在望京，得知道一个确切的地址。",
+        "ai_voice": "aiaudio-2f1a11de4d9b1597cd6de149a6779b38ab633ee4.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bca1b3",
+        "order": 13
+    },
+    "5cff785bca25e": {
+        "text": "然后我们得有一条到这个地址的路。",
+        "audio_text": "然后我们得有一条到这个地址的路。",
+        "ai_voice": "aiaudio-4a8bca636ee732caeaa1b4d44309aba65e210572.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bca25e",
+        "order": 14
+    },
+    "5cff785bca366": {
+        "text": "有了这个路，我们要寄大楼的时候，也得把它给拆了。",
+        "audio_text": "有了这个路，我们要寄大楼的时候，也得把它给拆了。",
+        "ai_voice": "aiaudio-23488894fe62fdb26e7d9670c26ed1be65c25799.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bca366",
+        "order": 15
+    },
+    "5cff785bca45c": {
+        "text": "因为就算我们能找到大楼那么大的车，它那高度也过不了我们现在的各种路桥。",
+        "audio_text": "因为就算我们能找到大楼那么大的车，它那高度也过不了我们现在的各种路桥。",
+        "ai_voice": "aiaudio-5e19a52a01aa785de91b32614cbb56ea503eb827.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bca45c",
+        "order": 16
+    },
+    "5cff785bca690": {
+        "text": "只能把大楼给拆成包装箱能存放的大小。",
+        "audio_text": "只能把大楼给拆成包装箱能存放的大小。",
+        "ai_voice": "aiaudio-a2ba7561c61b4b2010a6719b9b3c4e93d44d76fa.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bca690",
+        "order": 17
+    },
+    "5cff785bcace0": {
+        "text": "一栋楼给装到那么小的箱子里边，箱子会非常多。",
+        "audio_text": "一栋楼给装到那么小的箱子里边，箱子会非常多。",
+        "ai_voice": "aiaudio-67f3cff5b34a1e65bb9aef0d28d602427086b5f1.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcace0",
+        "order": 18
+    },
+    "5cff785bcad45": {
+        "text": "所以我们每一部分都需要编号，以防丢失。",
+        "audio_text": "所以我们每一部分都需要编号，以防丢失。",
+        "ai_voice": "aiaudio-08981d5544cda7470d5377dd2beafc87ffa23103.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcad45",
+        "order": 19
+    },
+    "5cff785bcb1c3": {
+        "text": "最后我们把这些包装箱给装到车上边，这样寄送之前的准备工作基本上就差不多了。",
+        "audio_text": "最后我们把这些包装箱给装到车上边，这样寄送之前的准备工作基本上就差不多了。",
+        "ai_voice": "aiaudio-9b95d8f6f2c1e657b3b56b6c5f9a86ecbac6353f.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcb1c3",
+        "order": 20
+    },
+    "5cff785bcb1ec": {
+        "text": "然后，一车一车排队装，一辆车装一间房，一栋楼也得好几十辆车，我们可能需要组一个小车队。",
+        "audio_text": "然后，一车一车排队装，一辆车装一间房，一栋楼也得好几十辆车，我们可能需要组一个小车队。",
+        "ai_voice": "aiaudio-e1af25db3fb2375a8f769331a9fd4ae46490d486.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcb1ec",
+        "order": 21
+    },
+    "5cff785bcb202": {
+        "text": "车队在运输的时候，它可能会面对我们天天发愁的问题——堵车。",
+        "audio_text": "车队在运输的时候，它可能会面对我们天天发愁的问题——堵车。",
+        "ai_voice": "aiaudio-62aaa34ca9a0137c979944b5576591e61804307b.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcb202",
+        "order": 22
+    },
+    "5cff785bcb213": {
+        "text": "从重庆出去，市区先堵上三个小时。",
+        "audio_text": "从重庆出去，市区先堵上三个小时。",
+        "ai_voice": "aiaudio-cf53770aca914409a9b56cd67edd158e514011d8.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcb213",
+        "order": 23
+    },
+    "5cff785bcb221": {
+        "text": "等到北京市区，那更堵。",
+        "audio_text": "等到北京市区，那更堵。",
+        "ai_voice": "aiaudio-07859057438965c8619e3ee64d733f30d203d838.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcb221",
+        "order": 24
+    },
+    "5cff785bcb22e": {
+        "text": "遇到上下班高峰或者周五，估计没五个小时进不去。",
+        "audio_text": "遇到上下班高峰或者周五，估计没五个小时进不去。",
+        "ai_voice": "aiaudio-64ddbeae5934d1678aac1b1283049026c44dddf8.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcb22e",
+        "order": 25
+    },
+    "5cff785bcb23c": {
+        "text": "这是跟其他车堵。",
+        "audio_text": "这是跟其他车堵。",
+        "ai_voice": "aiaudio-4675141fcaee389d5b4c13f0cb31d7d4d80d1998.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcb23c",
+        "order": 26
+    },
+    "5cff785bcbc83": {
+        "text": "等进了小区，我们自己那么多车，怎么进去也是问题，搞不好自己还要把自己堵上一回。",
+        "audio_text": "等进了小区，我们自己那么多车，怎么进去也是问题，搞不好自己还要把自己堵上一回。",
+        "ai_voice": "aiaudio-a5180a1145ae6a7e264e9e38c22114311282a88d.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcbc83",
+        "order": 27
+    },
+    "5cff785bcc1f4": {
+        "url": "resource-04aa122797633fdfb6877f4dd07489062649c661",
+        "action": "slide",
+        "id": "5cff785bcc1f4",
+        "order": 28
+    },
+    "5cff785bcc571": {
+        "text": "车都到了以后，我们还得检查每一车里边的东西是否完整。",
+        "audio_text": "车都到了以后，我们还得检查每一车里边的东西是否完整。",
+        "ai_voice": "aiaudio-06e04ca5cf9404a8b64c1c7c8b177d3d9c4e2496.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcc571",
+        "order": 29
+    },
+    "5cff785bcc5a0": {
+        "text": "如果不完整，还得联系重庆那边给补寄。",
+        "audio_text": "如果不完整，还得联系重庆那边给补寄。",
+        "ai_voice": "aiaudio-2da54771f872bb07cee71580c948ea186b095318.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcc5a0",
+        "order": 30
+    },
+    "5cff785bcc5ba": {
+        "text": "最后我们又把包装都给拆了，把里边的东西拿出来，再一块一块重新拼起来，这个楼才算基本运完了。",
+        "audio_text": "最后我们又把包装都给拆了，把里边的东西拿出来，再一块一块重新拼起来，这个楼才算基本运完了。",
+        "ai_voice": "aiaudio-b6dca17ee8c745b9524f78c6b0d390e929aa0d64.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcc5ba",
+        "order": 31
+    },
+    "5cff785bcc5d9": {
+        "url": "resource-801523d3d72eb470eb63dc30551e77e4260ad18e",
+        "action": "slide",
+        "id": "5cff785bcc5d9",
+        "order": 32
+    },
+    "5cff785bccc9a": {
+        "text": "现在我们回过头来看就会发现，其实，通过网络发送照片也是要处理类似的问题。",
+        "audio_text": "现在我们回过头来看就会发现，其实，通过网络发送照片也是要处理类似的问题。",
+        "ai_voice": "aiaudio-f85451207c7f8dd72e07564eaf4e875fccff1f4f.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bccc9a",
+        "order": 33
+    },
+    "5cff785bcccb3": {
+        "text": "首先我们需要知道目标地址，那我们就需要先定义好「网络位址」、然后要给出「寻址规则」以及「路由规则」。",
+        "audio_text": "首先我们需要知道目标地址，那我们就需要先定义好「网络位址」、然后要给出「寻址规则」以及「路由规则」。",
+        "ai_voice": "aiaudio-19f2eb0a365c2d5273cca3d3766ba6e943be7bdc.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcccb3",
+        "order": 34
+    },
+    "5cff785bcccc3": {
+        "text": "然后，我们传输数据的电信号要到达，我们就得有「数据链路」。",
+        "audio_text": "然后，我们传输数据的电信号要到达，我们就得有「数据链路」。",
+        "ai_voice": "aiaudio-dda43d3a87e3ba836215eeb80ab9f55d6982a13c.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcccc3",
+        "order": 35
+    },
+    "5cff785bcccd2": {
+        "text": "在物理上得有连接，不要以为有线的网线是物理连接，无线的网络也是物理连接。",
+        "audio_text": "在物理上得有连接，不要以为有线的网线是物理连接，无线的网络也是物理连接。",
+        "ai_voice": "aiaudio-bb89a669a2885f6c863ee77f9d4738a53479b50c.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcccd2",
+        "order": 36
+    },
+    "5cff785bccce0": {
+        "text": "再然后，数据包相对于网络来说肯定是超大了，这时候我们要「分片」。",
+        "audio_text": "再然后，数据包相对于网络来说肯定是超大了，这时候我们要「分片」。",
+        "ai_voice": "aiaudio-c7a170798abb4ba7d362f36938171f3232bbeacf.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bccce0",
+        "order": 37
+    },
+    "5cff785bccd11": {
+        "text": "为了将这些数据片有效的组织和传输，我们会给它们「序列码」。",
+        "audio_text": "为了将这些数据片有效的组织和传输，我们会给它们「序列码」。",
+        "ai_voice": "aiaudio-6a26c59a57db71698a7551f3197d5617a21d87cf.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bccd11",
+        "order": 38
+    },
+    "5cff785bccd21": {
+        "text": "在不同层级的网络上传输时，也会对它们进行相应的封装。",
+        "audio_text": "在不同层级的网络上传输时，也会对它们进行相应的封装。",
+        "ai_voice": "aiaudio-ecf8c85983cb6d84ed1e20aeb84130fd3fee06bd.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bccd21",
+        "order": 39
+    },
+    "5cff785bccd31": {
+        "text": "遇到网络拥堵的情况，我们要进行「拥塞控制」。",
+        "audio_text": "遇到网络拥堵的情况，我们要进行「拥塞[=se4]控制」。",
+        "ai_voice": "aiaudio-94def9efd47122db3464d0c3a3674f6ca0761997.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bccd31",
+        "order": 40
+    },
+    "5cff785bccd46": {
+        "url": "resource-9dff3e1837dfc3a9de52adfbeaa711b4e0e83529",
+        "action": "slide",
+        "id": "5cff785bccd46",
+        "order": 41
+    },
+    "5cff785bcd01e": {
+        "text": "等数据到了目的地，我们要做错误检测和校正。",
+        "audio_text": "等数据到了目的地，我们要做错误检测和校正。",
+        "ai_voice": "aiaudio-81d80d3a42ca4ee6922b1c663be90273d277c45d.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd01e",
+        "order": 42
+    },
+    "5cff785bcd033": {
+        "text": "遇到数据丢失的情况，要先尝试从冗余中恢复，不行的话，要请求重发。",
+        "audio_text": "遇到数据丢失的情况，要先尝试从冗余中恢复，不行的话，要请求重发。",
+        "ai_voice": "aiaudio-79f028f120f98df4dddd190f5c2aef6aec05bd23.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd033",
+        "order": 43
+    },
+    "5cff785bcd043": {
+        "text": "最后我们把数据外边的额外部分去掉，把它重新还原成最初的样子。",
+        "audio_text": "最后我们把数据外边的额外部分去掉，把它重新还原成最初的样子。",
+        "ai_voice": "aiaudio-b41125180673ccf0a2fd342888b1dc08b780c658.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd043",
+        "order": 44
+    },
+    "5cff785bcd052": {
+        "text": "这样照片才传输完成了。",
+        "audio_text": "这样照片才传输完成了。",
+        "ai_voice": "aiaudio-8e0377320dbc1636649dd2ed6c82d6cba79572e6.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd052",
+        "order": 45
+    },
+    "5cff785bcd070": {
+        "url": "resource-1125c1491480d9cd7a682a7c02f94146428533ee",
+        "action": "slide",
+        "id": "5cff785bcd070",
+        "order": 46
+    },
+    "5cff785bcd561": {
+        "text": "可见，传张照片是有很多琐碎的细节要处理的。",
+        "audio_text": "可见，传张照片是有很多琐碎的细节要处理的。",
+        "ai_voice": "aiaudio-2567e11ef6f5df853a6519e33af232833c3ad974.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd561",
+        "order": 47
+    },
+    "5cff785bcd57a": {
+        "text": "但这只是寄送一次的情况，如果要天天这么寄，那么我们就需要有一个严格的流程来保障安全、提升效率。",
+        "audio_text": "但这只是寄送一次的情况，如果要天天这么寄，那么我们就需要有一个严格的流程来保障安全、提升效率。",
+        "ai_voice": "aiaudio-0045e8352f0fcd7efd1f17dc05a40ae4da922dad.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd57a",
+        "order": 48
+    },
+    "5cff785bcd58c": {
+        "text": "比如说，如何快速的查找目的地址、数据应该拆分成多大的块、以及最终按什么规则进行组装。",
+        "audio_text": "比如说，如何快速的查找目的地址、数据应该拆分成多大的块、以及最终按什么规则进行组装。",
+        "ai_voice": "aiaudio-60ac2ebe3122ad88f3f836d2afb88664a2cef340.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd58c",
+        "order": 49
+    },
+    "5cff785bcd59d": {
+        "text": "这种流程规范，我们将其称之为「协议」。",
+        "audio_text": "这种流程规范，我们将其称之为「协议」。",
+        "ai_voice": "aiaudio-35b12ec76a9ce4474f82c325b65ee7c2b3708819.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd59d",
+        "order": 50
+    },
+    "5cff785bcd5ac": {
+        "text": "目前最为主流的网络协议是TCP\/IP协议族。",
+        "audio_text": "目前最为主流的网络协议是TCP\/IP协议族。",
+        "ai_voice": "aiaudio-10ba5d1fd567fe63310712000b5178cab2dc0268.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd5ac",
+        "order": 51
+    },
+    "5cff785bcd5bc": {
+        "text": "正是这些协议，支撑着我们今天便捷的网络生活。",
+        "audio_text": "正是这些协议，支撑着我们今天便捷的网络生活。",
+        "ai_voice": "aiaudio-8558d41df29f7d694030ba993ac13000f3dcb6a1.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd5bc",
+        "order": 52
+    },
+    "5cff785bcd5cc": {
+        "text": "你可能注意到了，我们用了「协议族」的字眼，因为它并不是一个协议，而是一系列的协议。",
+        "audio_text": "你可能注意到了，我们用了「协议族」的字眼，因为它并不是一个协议，而是一系列的协议。",
+        "ai_voice": "aiaudio-bffaf4cb0c40789606e95fe42e569a169aaa9695.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd5cc",
+        "order": 53
+    },
+    "5cff785bcd5dd": {
+        "text": "这个协议族将网络分成了四层，每个层次负责不同的逻辑。",
+        "audio_text": "这个协议族将网络分成了四层，每个层次负责不同的逻辑。",
+        "ai_voice": "aiaudio-b973d72b1c277c37293dcdb4e2fc1e6ec6d0900c.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd5dd",
+        "order": 54
+    },
+    "5cff785bcd5ec": {
+        "text": "在下一节，我们将为大家讲解这四个层次。",
+        "audio_text": "在下一节，我们将为大家讲解这四个层次。",
+        "ai_voice": "aiaudio-aef79f21ff4b32c5bae57af5515c9ba244c4e000.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd5ec",
+        "order": 55
+    },
+    "5cff785bcd613": {
+        "text": "window.parent.window.cg_get_item(\"学习成就1-1\")",
+        "action": "js",
+        "id": "5cff785bcd613",
+        "order": 56
+    },
+    "5cff785bcd6b1": {
+        "text": "恭喜你，又完成了一节课程的学习，获得了「学习成就」，可在「物品」中查看。",
+        "audio_text": "恭喜你，又完成了一节课程的学习，获得了「学习成就」，可在「物品」中查看。",
+        "ai_voice": "aiaudio-06f09c8a6b734e8d7e35953e0df7eb53c38894ac.mp3",
+        "human_voice": "",
+        "action": "subtitle",
+        "id": "5cff785bcd6b1",
+        "order": 57
+    }
+}

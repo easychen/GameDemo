@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_1","characterIndex":0,"characterName":"People1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"测试账号","nickname":"小白","note":"","profile":"就是一个以为自己是勇者的小白"},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"泰雷兹","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"玛莎","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"卢修斯","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"sv_heroine-girl student 1 sweat suit","characterIndex":0,"characterName":"$heroine-girl student 1 sweat suit","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"heroine-girl student 1 sweat suit","traits":[],"initialLevel":1,"maxLevel":99,"name":"夏衣","nickname":"夏衣","note":"","profile":""},
+{"id":6,"battlerName":"samurai-sv_actors02","characterIndex":0,"characterName":"$samurai02","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"samurai02","traits":[],"initialLevel":1,"maxLevel":99,"name":"小君","nickname":"小君","note":"","profile":""},
+{"id":7,"battlerName":"sv_heroine-girl student 4 parker","characterIndex":0,"characterName":"$heroine-girl student 4 parker","classId":3,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"heroine-girl student 4 parker","traits":[],"initialLevel":1,"maxLevel":99,"name":"可卡(猫)","nickname":"可卡","note":"","profile":""},
+{"id":8,"battlerName":"sv_heroine-girl student 4 parker","characterIndex":1,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"heroine-girl student 4 parker","traits":[],"initialLevel":1,"maxLevel":99,"name":"cat","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"sv_heroine-girl student 3 sweat suit","characterIndex":0,"characterName":"$heroine-girl student 3 sweat suit","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"heroine-girl student 3 uniform","traits":[],"initialLevel":1,"maxLevel":99,"name":"白棉","nickname":"白棉","note":"","profile":""}
+]

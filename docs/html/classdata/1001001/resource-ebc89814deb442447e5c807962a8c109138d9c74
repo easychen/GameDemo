@@ -1,0 +1,1 @@
+{"html":"<h1>title</h1>","js":"document.querySelector(\"h1\").innerHTML = 'examination test;","css":"h1\n    {\n        color:red;    \n    }","tabid":"js"}

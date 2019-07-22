@@ -1,0 +1,38 @@
+#ftwindow
+{
+    /* background-color: rgba(0, 0, 0, .9); */
+    left:1%;
+    top:1%;
+    bottom:1%;
+    right:1%;
+    width:98%;
+    height: 98%;
+    position: absolute;;
+    z-index: 99;
+    display: none;
+    border:0px;
+    border-radius: 10px;
+}
+
+#ftswitch
+{
+    position: absolute;;
+    z-index: 100;
+    top:1%;
+    right:1%;
+    width:10px;
+    display: none;
+}
+
+#ftswitch a
+{
+    color:white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+#ftswitch.show,#ftwindow.show
+{
+    display: block;
+}
